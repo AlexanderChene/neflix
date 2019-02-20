@@ -1,0 +1,37 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: auto;
+}
+
+h3{
+  text-align: center;
+}
+
+.box {
+  display: flex;
+  width: 80%;
+  margin: auto;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-bottom: 50px;
+  /*border: 1px solid black;*/
+}
+
+
+ul li{
+  
+  list-style-type: disc;
+}
+
+.poster img{
+  width: auto;
+}
+
+.hide {
+  visibility: hidden;
+}
+
+.show {
+  visibility: visible;
+}
